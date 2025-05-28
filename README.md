@@ -9,11 +9,8 @@ I'm a Front End passionated developer from France. I use React, Vue.js. I'm also
 - 🧠  I'm learning Nuxt
 
 
-# Skills 
+# Skills / TOOLS / TECH
 
-![img_javascript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="logo JS" width="30px"/>]
 
 
-#GH-LIGHT-MODE-ONLY
-
-#GH-DARK-MODE-ONLY
