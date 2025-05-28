@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Henri
-### Front End Developer
+### Front End Developer / JavaScript / React / Vue.js
 <!--
 **RollandHenri/RollandHenri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
