@@ -9,9 +9,9 @@ I'm a Front End passionated developer from France. I use React, Vue.js. I'm also
 - 🧠  I'm learning Nuxt
 
 
-# Skills / TOOLS / TECH
+## Skills / Tools / Tech
 
+![logo JS](<img src="https://www.flaticon.com/fr/icone-gratuite/js_5968292?term=javascript&page=1&position=6&origin=search&related_id=5968292" />)
 
-<img src="https://www.flaticon.com/fr/icone-gratuite/js_5968292?term=javascript&page=1&position=6&origin=search&related_id=5968292" />
 
 
