@@ -11,4 +11,9 @@ I'm a Front End passionated developer from France. I use React, Vue.js. I'm also
 
 # Skills 
 
-![<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />]
+![img_javascript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />)
+
+
+#GH-LIGHT-MODE-ONLY
+
+#GH-DARK-MODE-ONLY
