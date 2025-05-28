@@ -12,5 +12,4 @@ I'm a Front End passionated developer from France. I use React, Vue.js. I'm also
 ## Skills / Tools / Tech
 
 ![image](https://github.com/user-attachments/assets/af97b3d9-561e-486a-a906-ddfe21f6c21b)
-
-
+![image](https://github.com/user-attachments/assets/16f5a20b-a64f-4d25-963d-59d081c0e76a)
