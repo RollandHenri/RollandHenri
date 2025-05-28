@@ -6,4 +6,9 @@ I'm a Front End passionated developer from France. I use React, Vue.js. I'm also
 
 - 🌍  I'm based in France
 - 🖥️  See my portfolio at profile https://rollandhenri.github.io/
-- 🧠  I'm learning NextJS
+- 🧠  I'm learning Nuxt
+
+
+# Skills 
+
+![<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />]
